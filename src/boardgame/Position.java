@@ -10,6 +10,7 @@ public class Position {
         this.row = row;
     }
 
+
     public int getRow() {
         return row;
     }
